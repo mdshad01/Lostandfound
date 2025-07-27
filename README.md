@@ -26,11 +26,22 @@
 <img src="frontend/public/HomePage.png">
 </div>
 
-### 📝 Report a Lost Item
-![Report Lost](/public/HomePage.png)
+### 📝 Report a Lost Item Form
+<div align="center">
+<img src="frontend/public/FormReport .png">
+</div>
 
-### 📋 View Found Items
-![Listing Page](public/screenshots/found-list.png)
+
+### 📋 View Latest Found Items
+<div align="center">
+<img src="frontend/public/Lost Item.png">
+</div>
+
+### 📝 PikUP Guidelines
+<div align="center">
+<img src="frontend/public/Pikup.png">
+</div>
+
 
 ---
 
